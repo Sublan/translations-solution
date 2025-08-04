@@ -8,8 +8,8 @@ A Laravel-based API project using standard controller and resource structure.
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/Sublan/translations-solution
+cd translations-solution
 ```
 
 2. **Install dependencies**
@@ -52,7 +52,7 @@ POST /api/auth/login
 Payload:
 ```json
 {
-  "email": "user@example.com",
+  "email": "admin@example.com",
   "password": "password"
 }
 ```
